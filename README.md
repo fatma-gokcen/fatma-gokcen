@@ -25,6 +25,10 @@ React • Redux Toolkit • JavaScript • React Router • Vite • HTML • CS
 Production-ready React app with Redux Toolkit & API integration.  
 🔗 https://14-e-ticaret.vercel.app/
 
+🎬 **Movie App**  
+Vanilla JavaScript movie search app with OMDB API integration, watchlist, and dynamic movie details.  
+🔗 [Live Demo](https://movie-app-truh.vercel.app/)
+
 ---
 
 ### 📊 GitHub Stats
